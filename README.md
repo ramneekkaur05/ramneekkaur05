@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramneek Kaur</h1>
-<h3 align="center">A passionate Data Scientist from Punjab,India</h3>
+<h3 align="center">A passionate aspiring Data Scientist from Punjab,India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramneekkaur05&label=Profile%20views&color=0e75b6&style=flat" alt="ramneekkaur05" /> </p>
