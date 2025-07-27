@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing, Computer Vision and Data Analysis**
 
-- 💬 Ask me about **Python , Machine Learning , C++ programming language**
+- 💬 Ask me about **Python , C++ , Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **ramneekkaur.gn@gmail.com**
 
